@@ -10,3 +10,5 @@ To install, run `git clone https://github.com/2-bithacker/Cube2-Sauerbraten-Rasp
 If you have any problems, feel free to start an issue!
 
 If you liked this, check out my other projects!
+
+This was brought to you by the RD sauerclan.  https://freddaws.wixsite.com/realdeal
