@@ -11,4 +11,4 @@ If you have any problems, feel free to start an issue!
 
 If you liked this, check out my other projects!
 
-This was brought to you by the RD sauerclan.  https://freddaws.wixsite.com/realdeal
+This was brought to you by the RD sauerclan.  https://freddaws.wixsite.com/realdeal :)
