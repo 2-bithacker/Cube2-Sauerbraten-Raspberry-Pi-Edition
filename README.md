@@ -10,7 +10,7 @@ To launch, you have to set the binary excecutable and maybe the launcher.  Set t
 
 To set the launcher excecutable, run `cd ~/Cube2-Sauerbraten-Raspberry-Pi-Edition && chmod +x sauerbraten_unix`
 
-To download, build, and create a dektop launcher, and set it all excecutable, run `git clone https://github.com/2-bithacker/Cube2-Sauerbraten-Raspberry-Pi-Edition.git && cd ~/Cube2-Sauerbraten-Raspberry-Pi-Edition && chmod +x install && ./install`
+To download, build, create a dektop launcher, and set it all excecutable, run `git clone https://github.com/2-bithacker/Cube2-Sauerbraten-Raspberry-Pi-Edition.git && cd ~/Cube2-Sauerbraten-Raspberry-Pi-Edition && chmod +x install && ./install`
 
 If you have any problems, feel free to start an issue!
 
