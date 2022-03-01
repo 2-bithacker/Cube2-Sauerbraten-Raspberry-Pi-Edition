@@ -2,7 +2,7 @@
 
 Cube2: Sauerbraten for Raspberry Pi!
 
-![2022-02-28_15 21 37](https://user-images.githubusercontent.com/90713990/156061038-f982bb24-91e9-4034-a60b-2c1303aab512.png)
+![2022-03-01_13 31 44](https://user-images.githubusercontent.com/90713990/156236081-0724f338-a7a0-47f9-870e-545baba3ffcc.png)
 
 If you are running raspberry pi os with a 64 bit kernel, you will not have to build.  To download, run `git clone https://github.com/2-bithacker/Cube2-Sauerbraten-Raspberry-Pi-Edition.git`
 
