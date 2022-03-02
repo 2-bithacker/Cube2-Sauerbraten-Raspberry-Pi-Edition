@@ -4,10 +4,10 @@
 #Be sure to use the "error" function - it will display a message if a command fails to run. Example below:
 sudo apt update || warning
 sudo apt install --yes zlib1g-dev libgeoip-dev build-essential libsdl2-dev libsdl2-mixer-dev libsdl2-image-dev || error 'Install of sdl2 and opengl libraries failed!'
-chmod +x  ~/Cube2-Sauerbraten-Raspberry-Pi-Edition/src/enet/check_cflags.sh 
-make install -C ~/Cube2-Sauerbraten-Raspberry-Pi-Edition/src || error 'build failed!'
+chmod +x src/enet/check_cflags.sh 
+make install -C src || error 'build failed!'
 cp launcher.init sauerbraten.init
 mv sauerbraten.init ~/Desktop
 chmod +x ~/Desktop/sauerbraten.init
-chmod +x ~/Cube2-Sauerbraten-Raspberry-Pi-Edition/bin_unix/native_server
-chmod +x ~/Cube2-Sauerbraten-Raspberry-Pi-Edition/bin_unix/native_client
+chmod +x bin_unix/native_server
+chmod +x bin_unix/native_client
