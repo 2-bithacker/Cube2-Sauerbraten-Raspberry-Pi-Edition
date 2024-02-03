@@ -17,3 +17,5 @@ If you have any problems, feel free to start an issue!
 If you liked this, check out my other projects!
 
 This was brought to you by the RD sauerclan.  Check us out!  https://freddaws.wixsite.com/realdeal
+
+NOT MAINTAINED ATM; I might resume maintinance at any given time tho lol
